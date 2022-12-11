@@ -47,7 +47,7 @@ app.post("/api/nodemail", (req, res) => {
         <br/>
         <p>
           Click here to 
-          <a class="confirm_" href="http://127.0.0.1:5500/pages/confirm.html">Confirm</a>
+          <a class="confirm_" href="https://demomailconfirm.netlify.app/pages/confirm.html">Confirm</a>
         </p>
     </div>
   `;
